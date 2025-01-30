@@ -1,0 +1,18 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+.all{
+    display: flex;
+}
+.right{
+    background-color: rgb(17,121,191);
+    
+}
+.span{
+    background-color: green;
+}
+.span{
+    background-color: grey;
+}
